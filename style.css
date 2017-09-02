@@ -1,0 +1,17 @@
+body {
+	box-sizing: border-box;
+}
+
+.cnt {
+	display: flex;
+	margin: auto;
+	height: 100vh;
+}
+.cnt1, .cnt2 {
+	padding: 20px;
+	border-radius: 10px;
+	border: 3px solid #22c727;
+}
+.btn {
+	margin: 10px;
+}
